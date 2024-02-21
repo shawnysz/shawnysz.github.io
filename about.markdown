@@ -21,7 +21,7 @@ You can [receive updates from me via email]( ) or follow me:
 - RSS feed: 
 - Twitter: 
 - GitHub: [@shawnysz](https://github.com/shawnysz)
-- Instagram: [@shawnyzhou] (https://instagram.com/shawnyszhou)
+- Instagram: [@shawnyzhou] (https://www.instagram.com/shawnyzhou)
 
 ## Interviews
 
