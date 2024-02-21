@@ -16,11 +16,12 @@ In the wilderness of my mind.
 
 ## Elsewhere
 
-You can [receive updates from me via email](https://stephango.com/subscribe) or follow me:
+You can [receive updates from me via email]( ) or follow me:
 
 - RSS feed: 
 - Twitter: 
 - GitHub: [@shawnysz](https://github.com/shawnysz)
+- Instagram: [@shawnyzhou] (https://instagram.com/shawnyszhou)
 
 ## Interviews
 
