@@ -1,4 +1,4 @@
-# 用Typora写Post
+用Typora写Post
 
 
 
