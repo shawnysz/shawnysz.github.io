@@ -4,31 +4,26 @@ title: About
 permalink: /about/
 ---
 
-I'm Shawn. I'm the founder of DEFiNE NY, a company for real estate development, design & build projects, commerical construction. 
+hey, i'm shawn zhou. i work on real estate development projects, design & build residential & commerical construction projects. 
 
-A few links to explore:
+a few links to explore:
 
-- Writing
-- Projects
-- What I'm doing now
+- writing
+- projects
+- what I'm planning to do
 
-## You are here
+## elsewhere
 
-In the wilderness of my mind.
-
-## Elsewhere
-
-You can [receive updates from me via email]( ) or follow me:
+you can [receive updates from me via email]( ) or follow me:
 
 - RSS feed: 
-- Twitter: 
-- GitHub: [@shawnysz](https://github.com/shawnysz)
-- Instagram: [@shawnyzhou](https://www.instagram.com/shawnyzhou)
+- X: 
+- instagram: [@shawnyzhou](https://www.instagram.com/shawnyzhou)
 
-## Interviews
+## links
 
-- Links
-- Links
+- links
+- links
 
 
 [jekyll-organization]: https://github.com/jekyll
