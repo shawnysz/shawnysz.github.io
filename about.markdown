@@ -17,13 +17,9 @@ a few links to explore:
 you can [receive updates from me via email]( ) or follow me:
 
 - RSS feed: 
-- X: 
 - instagram: [@shawnyzhou](https://www.instagram.com/shawnyzhou)
 
 ## links
 
 - links
 - links
-
-
-[jekyll-organization]: https://github.com/jekyll
