@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: now
+permalink: /now/
 ---
 
 hey, i'm shawn zhou. i work on real estate development projects, design & build residential & commerical construction projects. 
