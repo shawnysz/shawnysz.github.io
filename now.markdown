@@ -4,22 +4,16 @@ title: now
 permalink: /now/
 ---
 
-hey, i'm shawn zhou. i work on real estate development projects, design & build residential & commerical construction projects. 
+- # what I'm doing now
 
-a few links to explore:
+  ## build something better through well-thought and good design
 
-- writing
-- projects
-- what I'm planning to do
+  
 
-## elsewhere
+  ------
 
-you can [receive updates from me via email]( ) or follow me:
+  # previously
 
-- RSS feed: 
-- instagram: [@shawnyzhou](https://www.instagram.com/shawnyzhou)
+  See [Projects](https://shawnyzhou.com/projects) for a full list of past projects.
 
-## links
-
-- links
-- links
+  ## exploring how we can change 
