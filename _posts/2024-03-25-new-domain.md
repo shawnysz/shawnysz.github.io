@@ -1,11 +1,8 @@
-just bought this [domain](shawnyzhou.com) and looking forward to jornaling or writing something.
+i don't like all those "new life" or "new start" type of things but i figured jornaling or writing something consistanly and reguarly might be a better way to keep a record of my thought process over time and i would be suprised over time for what my thoughts gonna change.
 
-doesn't like all those "new life" kind but i figured this might be a better way to record my thoughts over time better than an instagram story/post.
+also, writing is the best way to organize and clear thoughts and ideas, and eventually lead to better ideas. 
 
-a few things in my mind for now
+two things i want to do for myself
 
-- change my personal email to a set of new domain email address
-- organize a few topics for future posts
-- no photos will be hosted on this site
-
-maybe i will have an individual post on how to set up this site and how to pick the services i use, and why
+- set topics for all future posts
+- format is text-only
