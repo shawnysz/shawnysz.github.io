@@ -12,8 +12,14 @@ permalink: /now/
 
   ------
 
+  
+
   # previously
 
+  
+  
   See [Projects](https://shawnyzhou.com/projects) for a full list of past projects.
-
+  
+  
+  
   ## exploring how we can change 
