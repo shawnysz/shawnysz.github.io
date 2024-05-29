@@ -1,6 +1,25 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: about
+permalink: /
 ---
+
+hey, i'm shawn zhou. i work on real estate development projects, design & build residential & commerical construction projects. 
+
+a few links to explore:
+
+- writing
+- projects
+- what I'm planning to do
+
+## elsewhere
+
+you can [receive updates from me via email]( ) or follow me:
+
+- RSS feed: 
+- instagram: [@shawnyzhou](https://www.instagram.com/shawnyzhou)
+
+## links
+
+- links
+- links
