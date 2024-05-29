@@ -36,6 +36,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+# Ensure the assets are included
+include:
+  - assets/js/theme-switcher.js
+  - assets/css/theme.css
+
 # Navigation settings
 navigation:
   - text: "About"

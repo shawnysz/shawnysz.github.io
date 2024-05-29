@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: about
 permalink: /
 ---
@@ -13,11 +13,6 @@ a few links to explore:
 - what I'm planning to do
 
 ## elsewhere
-
-you can [receive updates from me via email]( ) or follow me:
-
-- RSS feed: 
-- instagram: [@shawnyzhou](https://www.instagram.com/shawnyzhou)
 
 ## links
 

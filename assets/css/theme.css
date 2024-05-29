@@ -1,0 +1,25 @@
+/* assets/css/theme.css */
+
+/* Light theme */
+:root {
+  --background-color: #ffffff;
+  --text-color: #000000;
+  --link-color: #1a0dab;
+}
+
+/* Dark theme */
+[data-theme='dark'] {
+  --background-color: #121212;
+  --text-color: #e0e0e0;
+  --link-color: #bb86fc;
+}
+
+/* Apply the variables */
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+a {
+  color: var(--link-color);
+}

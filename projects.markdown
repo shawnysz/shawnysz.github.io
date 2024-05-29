@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Projects
+layout: default
+title: projects
 permalink: /projects/
 ---
 
-# Projects
+# projects
 
 This is the projects page. Showcase your projects here.
