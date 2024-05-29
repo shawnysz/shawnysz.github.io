@@ -1,54 +1,62 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+site: Sidey
+url: #yoururl
+title: Sidey
+description: Simple and minimalistic jekyll blogging theme.
+twitter:
+  username: #yourusername
+  card: summary
+  creator: #yourusername
+author:
+  twitter: #yourusername
+  name: #yourusername
+  avatar:
+  email: #youremail
+  url: #yoururl
+permalink: pretty
 
-title: shawn zhou
-email: hi@shawnyszhou.com
-description: live | think | act
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+highlighter: none
 
-# Exclude from processing.
 exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
 
-# Ensure the assets are included
-include:
-  - assets/js/theme-switcher.js
-  - assets/css/theme.css
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
-# Navigation settings
-navigation:
-  - text: "About"
-    link: "/"
-  - text: "Writing"
-    link: "/writing"
-  - text: "Projects"
-    link: "/projects"
-  - text: "Travel"
-    link: "/travel"
-  - text: "Notes"
-    link: "/notes"
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
