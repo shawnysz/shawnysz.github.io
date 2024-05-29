@@ -1,21 +1,14 @@
 ---
 layout: page
-title: about
+title: About
 ---
 
-Hey, I'm Shawn Zhou
+Hey, I'm Shawn Zhou, currently live in New York City.
 
-Based in NYC, I spend my time with friends, artists, architects, designers, entrepreneurs and different people on creating better spaces for people to live, work and relax.
+"Build to make dream come ture" is what makes me wake up every morning.
 
-### Projects
+As a developer and a general contractor, I spend most of my time with friends, artists, architects, designers, entrepreneurs and different people on creating better spaces for people to live, work and relax.
 
-- Commercial Spaces
-  - Hospitality
-    - Coffee/Milktea Shop
-    - Resturant
-    - Hotel 
-  - Retail
-  - Exhibition
-- Residential Spaces
-- Real Estate Development
-- General Contractor / Construction Management
+I enjoy reading, hanging out with friends, and talking about strange ideas.
+
+On a normal Sunday, I would chosse to walk around in the city or playing basketball in the parks.
