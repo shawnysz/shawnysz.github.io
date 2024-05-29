@@ -1,28 +1,15 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Hey, I'm Shawn Zhou
 
-### Features
+Based in NYC, I spend my time with friends, artists, architects, designers, entrepreneurs and different people to on creating better spaces for people to live, work and relax.
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+### Projects
 
-### Screenshot
-
-![Screenshot](screenshot.png)
+- Commercial Spaces
+- Residential Spaces
+- Real Estate Development
+- General Contractor / Construction Management
