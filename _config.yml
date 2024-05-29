@@ -23,7 +23,6 @@ email: hi@shawnyszhou.com
 description: live | think | act
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: shawnyszhou
 
 # Build settings
 theme: minima
