@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0157e14df22c1f46",
+        "id": "89b20c533070260f",
         "type": "tabs",
         "children": [
           {
-            "id": "5915ac7b27cd36c6",
+            "id": "174fd93ef2b3caed",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5915ac7b27cd36c6",
+  "active": "174fd93ef2b3caed",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_pages/search.md",
     "_posts/2024-05-30-愉悦事物清单.md",
     "_posts/2024-01-02-最浪费时间的事.md",
     "_posts/2024-05-17-brand-and-identity.md",
