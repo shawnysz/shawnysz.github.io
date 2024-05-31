@@ -1,14 +1,14 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Shawn Zhou
+url: #shawnyzhou.com
+title: Shawn Zhou
+description: a personal space of shawn
 twitter:
   username: #yourusername
   card: summary
   creator: #yourusername
 author:
   twitter: #yourusername
-  name: #yourusername
+  name: #shawn
   avatar:
   email: #youremail
   url: #yoururl
