@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "98396b4bc7888abe",
+        "id": "0157e14df22c1f46",
         "type": "tabs",
         "children": [
           {
-            "id": "e737940df1cd5200",
+            "id": "5915ac7b27cd36c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-01-02-最浪费时间的事.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-02-最浪费时间的事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-01-02-最浪费时间的事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024-01-02-最浪费时间的事.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e737940df1cd5200",
+  "active": "5915ac7b27cd36c6",
   "lastOpenFiles": [
     "_posts/2024-05-30-愉悦事物清单.md",
-    "_posts/2024-05-17-brand-and-identity.md",
     "_posts/2024-01-02-最浪费时间的事.md",
+    "_posts/2024-05-17-brand-and-identity.md",
     "favicon.png"
   ]
 }
