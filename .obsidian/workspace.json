@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-30-愉悦事物清单.md",
+                "file": "_posts/2024-01-02-最浪费时间的事.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-30-愉悦事物清单.md",
+                "file": "_posts/2024-01-02-最浪费时间的事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-30-愉悦事物清单.md",
+                "file": "_posts/2024-01-02-最浪费时间的事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-30-愉悦事物清单.md"
+                "file": "_posts/2024-01-02-最浪费时间的事.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "e737940df1cd5200",
   "lastOpenFiles": [
-    "_posts/2024-05-17-brand-and-identity.md",
     "_posts/2024-05-30-愉悦事物清单.md",
+    "_posts/2024-05-17-brand-and-identity.md",
     "_posts/2024-01-02-最浪费时间的事.md",
     "favicon.png"
   ]
