@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c41bde477b81d4",
+        "id": "3ca4485e69b684ce",
         "type": "tabs",
         "children": [
           {
-            "id": "14da1caa74b9c3d1",
+            "id": "bf5d16f40ec5c997",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-06-01-June.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-01-June.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-01-June.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024-06-01-June.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ab73173f243739f9",
+  "active": "bf5d16f40ec5c997",
   "lastOpenFiles": [
-    "_posts/2024-05-31-100-days.md",
+    "_posts/2024-04-11-新网站.md",
     "_posts/2024-06-01-June.md",
+    "_posts/2024-05-31-100-days.md",
     "_posts/2024-05-17-消费符号.md",
     "_pages/about.md",
     "_pages/search.md",
