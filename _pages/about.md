@@ -2,7 +2,7 @@
 layout: page
 title: about
 ---
-Hey, I'm Shawn Zhou, currently living in New York City.
+Hey, I'm Shawn, currently living in New York City.
 
 As a real estate developer and a general contractor, I spend most of my time with artists, architects, designers, entrepreneurs and different people on creating better spaces for people to live, work and relax.
 
