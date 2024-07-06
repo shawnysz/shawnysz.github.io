@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f54fa6b60af4f9",
+        "id": "328ec496e8760134",
         "type": "tabs",
         "children": [
           {
-            "id": "15ab0b2e2fcaf4db",
+            "id": "c5c4797fde6746bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "drafts/2024-06-05-vision.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "drafts/2024-06-05-vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "drafts/2024-06-05-vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "drafts/2024-06-05-vision.md"
+              }
             }
           }
         ]
@@ -138,27 +146,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "15ab0b2e2fcaf4db",
+  "active": "c5c4797fde6746bb",
   "lastOpenFiles": [
+    "drafts/2024-06-05-Making your decision right.md",
+    "_posts/2024-07-06-出色士兵和杰出元帅.md",
+    "_posts/2024-06-10-chalkboard-decisions.md",
+    "drafts/keep the team small.md",
+    "_posts/2024-01-02-最浪费时间的事.md",
+    "_posts/2024-05-30-愉悦事物清单.md",
+    "drafts/2024-06-05-vision.md",
     "projects.md",
-    "_pages/projects.md",
+    "drafts/2024-06-05-watches.md",
+    "drafts/2024-06-05-我的Model-Y-&-FSD.md",
+    "drafts/2024-06-05-衣着与自我表达.md",
+    "drafts/2024-06-05.md",
+    "_posts/2024-06-01-June.md",
     "_pages/about.md",
+    "_pages/projects.md",
     "_pages/search.md",
     "drafts/2024-06-05-both-sides-of-the-table.md",
     "favicon.png",
-    "drafts/2024-06-05-衣着与自我表达.md",
-    "drafts/2024-06-05-我的Model-Y-&-FSD.md",
-    "drafts/2024-06-05 1.md",
-    "drafts/2024-06-05.md",
-    "drafts/2024-06-05-watches.md",
-    "drafts/2024-06-05-vision.md",
     "drafts",
     "未命名.md",
-    "_posts/2024-06-01-June.md",
     "_posts/2024-05-31-100-days.md",
-    "_posts/2024-05-30-愉悦事物清单.md",
     "_posts/2024-05-17-创作.md",
-    "_posts/2024-04-11-新网站.md",
-    "_posts/2024-01-02-最浪费时间的事.md"
+    "_posts/2024-04-11-新网站.md"
   ]
 }
