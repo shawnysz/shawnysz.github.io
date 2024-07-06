@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/2024-06-05-vision.md",
+                "file": "_pages/projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/2024-06-05-vision.md",
+                "file": "_pages/projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/2024-06-05-vision.md",
+                "file": "_pages/projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/2024-06-05-vision.md"
+                "file": "_pages/projects.md"
               }
             }
           }
@@ -146,24 +146,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c5c4797fde6746bb",
+  "active": "ab73173f243739f9",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_pages/search.md",
+    "_pages/projects.md",
+    "drafts/2024-06-05-vision.md",
     "drafts/2024-06-05-Making your decision right.md",
     "_posts/2024-07-06-出色士兵和杰出元帅.md",
     "_posts/2024-06-10-chalkboard-decisions.md",
     "drafts/keep the team small.md",
     "_posts/2024-01-02-最浪费时间的事.md",
     "_posts/2024-05-30-愉悦事物清单.md",
-    "drafts/2024-06-05-vision.md",
-    "projects.md",
     "drafts/2024-06-05-watches.md",
     "drafts/2024-06-05-我的Model-Y-&-FSD.md",
     "drafts/2024-06-05-衣着与自我表达.md",
     "drafts/2024-06-05.md",
     "_posts/2024-06-01-June.md",
-    "_pages/about.md",
     "_pages/projects.md",
-    "_pages/search.md",
     "drafts/2024-06-05-both-sides-of-the-table.md",
     "favicon.png",
     "drafts",
