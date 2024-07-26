@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "328ec496e8760134",
+        "id": "7a3db997c596b98d",
         "type": "tabs",
         "children": [
           {
-            "id": "c5c4797fde6746bb",
+            "id": "505b1b7353cbc9c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/projects.md",
+                "file": "_posts/2024-07-22-写作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d9f44f716d6cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/2024-06-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/projects.md",
+                "file": "drafts/2024-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/projects.md",
+                "file": "drafts/2024-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/projects.md"
+                "file": "drafts/2024-06-05.md"
               }
             }
           }
@@ -146,30 +159,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ab73173f243739f9",
+  "active": "83d9f44f716d6cbc",
   "lastOpenFiles": [
-    "_pages/about.md",
-    "_pages/search.md",
-    "_pages/projects.md",
-    "drafts/2024-06-05-vision.md",
+    "drafts/2024-06-01-June.md",
+    "drafts/2024-06-05-both-sides-of-the-table.md",
     "drafts/2024-06-05-Making your decision right.md",
-    "_posts/2024-07-06-出色士兵和杰出元帅.md",
-    "_posts/2024-06-10-chalkboard-decisions.md",
-    "drafts/keep the team small.md",
-    "_posts/2024-01-02-最浪费时间的事.md",
-    "_posts/2024-05-30-愉悦事物清单.md",
+    "drafts/2024-06-05-vision.md",
     "drafts/2024-06-05-watches.md",
     "drafts/2024-06-05-我的Model-Y-&-FSD.md",
+    "drafts/2024-07-19-keep-the-team-small.md",
     "drafts/2024-06-05-衣着与自我表达.md",
+    "_posts/2024-07-26-大脑对时间的感知并非是线性增量的.md",
+    "未命名.md",
+    "_posts/2024-07-22-写作.md",
     "drafts/2024-06-05.md",
-    "_posts/2024-06-01-June.md",
+    "drafts/keep the team small.md",
+    "_posts/2024-06-10-chalkboard-decisions.md",
+    "_posts/2024-07-06-出色士兵和杰出元帅.md",
+    "_posts/2024-04-11-新网站.md",
+    "_posts/2024-01-02-最浪费时间的事.md",
+    "_posts/2024-05-30-愉悦事物清单.md",
+    "_posts/2024-05-17-抵御消费主义的最佳手段就是创作.md",
     "_pages/projects.md",
-    "drafts/2024-06-05-both-sides-of-the-table.md",
+    "_pages/about.md",
+    "_pages/search.md",
     "favicon.png",
     "drafts",
-    "未命名.md",
-    "_posts/2024-05-31-100-days.md",
-    "_posts/2024-05-17-创作.md",
-    "_posts/2024-04-11-新网站.md"
+    "_posts/2024-05-31-100-days.md"
   ]
 }
