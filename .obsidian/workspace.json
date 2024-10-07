@@ -8,31 +8,163 @@
         "type": "tabs",
         "children": [
           {
-            "id": "505b1b7353cbc9c8",
+            "id": "8cdd6ebbd73b6f74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-22-写作.md",
+                "file": "2024-10-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83d9f44f716d6cbc",
+            "id": "117f3ad2f0633277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/2024-06-05.md",
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ceb01c06a2d6f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fadd22a6a902ecfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe6c7affa4d980a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bac457afb88bff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a645b71e1403c76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c4f5cd4000fb628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c7b1d2438c90500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9aae6b4540ef190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d83372f691c5a20b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "043bf39866c9cbe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e52048e21ca97911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-01-意义.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -98,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/2024-06-05.md",
+                "file": "2024-10-01-意义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/2024-06-05.md",
+                "file": "2024-10-01-意义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/2024-06-05.md"
+                "file": "2024-10-01-意义.md"
               }
             }
           }
@@ -159,32 +291,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "83d9f44f716d6cbc",
+  "active": "e52048e21ca97911",
   "lastOpenFiles": [
-    "drafts/2024-06-01-June.md",
+    "drafts/2024-06-05-vision.md",
+    "2024-10-01-意义.md",
+    "drafts/2024-06-05-watches.md",
+    "_posts/2024-10-06-尼采.md",
+    "2024-09-27-taste.md",
+    "2024-09-27-sleep.md",
+    "2024-10-04.md",
+    "2024-09-27-team.md",
+    "2024-09-27.md",
+    "未命名 11.md",
+    "未命名 10.md",
+    "未命名 9.md",
+    "未命名 8.md",
+    "未命名 7.md",
+    "未命名 6.md",
+    "未命名 5.md",
+    "未命名 4.md",
+    "未命名 3.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "未命名.md",
+    "_posts/2024-04-11-new-site.md",
+    "drafts/2024-06-05-心流.md",
     "drafts/2024-06-05-both-sides-of-the-table.md",
     "drafts/2024-06-05-Making your decision right.md",
-    "drafts/2024-06-05-vision.md",
-    "drafts/2024-06-05-watches.md",
-    "drafts/2024-06-05-我的Model-Y-&-FSD.md",
-    "drafts/2024-07-19-keep-the-team-small.md",
-    "drafts/2024-06-05-衣着与自我表达.md",
-    "_posts/2024-07-26-大脑对时间的感知并非是线性增量的.md",
-    "未命名.md",
-    "_posts/2024-07-22-写作.md",
-    "drafts/2024-06-05.md",
-    "drafts/keep the team small.md",
-    "_posts/2024-06-10-chalkboard-decisions.md",
-    "_posts/2024-07-06-出色士兵和杰出元帅.md",
-    "_posts/2024-04-11-新网站.md",
-    "_posts/2024-01-02-最浪费时间的事.md",
-    "_posts/2024-05-30-愉悦事物清单.md",
-    "_posts/2024-05-17-抵御消费主义的最佳手段就是创作.md",
-    "_pages/projects.md",
-    "_pages/about.md",
-    "_pages/search.md",
+    "drafts/2024-09-27-.md",
     "favicon.png",
-    "drafts",
-    "_posts/2024-05-31-100-days.md"
+    "drafts"
   ]
 }
