@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-01-意义.md",
+                "file": "2024-09-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-01-意义.md",
+                "file": "2024-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-01-意义.md",
+                "file": "2024-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-01-意义.md"
+                "file": "2024-09-27.md"
               }
             }
           }
@@ -293,14 +293,16 @@
   },
   "active": "e52048e21ca97911",
   "lastOpenFiles": [
-    "drafts/2024-06-05-vision.md",
-    "2024-10-01-意义.md",
-    "drafts/2024-06-05-watches.md",
-    "_posts/2024-10-06-尼采.md",
-    "2024-09-27-taste.md",
-    "2024-09-27-sleep.md",
-    "2024-10-04.md",
     "2024-09-27-team.md",
+    "2024-09-27-sleep.md",
+    "_posts/2024-09-27-taste.md",
+    "_posts/2024-10-01-意义.md",
+    "_posts/2024-07-22-写作.md",
+    "_posts/2024-07-26-大脑对时间的感知并非是线性增量的.md",
+    "_posts/2024-10-06-尼采.md",
+    "drafts/2024-06-05-vision.md",
+    "drafts/2024-06-05-watches.md",
+    "2024-10-04.md",
     "2024-09-27.md",
     "未命名 11.md",
     "未命名 10.md",
@@ -317,8 +319,6 @@
     "_posts/2024-04-11-new-site.md",
     "drafts/2024-06-05-心流.md",
     "drafts/2024-06-05-both-sides-of-the-table.md",
-    "drafts/2024-06-05-Making your decision right.md",
-    "drafts/2024-09-27-.md",
     "favicon.png",
     "drafts"
   ]
