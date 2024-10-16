@@ -2,12 +2,12 @@
 layout: page
 title: about me
 ---
-Hey, I'm Shawn, currently living in New York City.
+i'm shawn, currently living in New York City.
 
-As a real estate developer and a general contractor, I spend most of my time with artists, architects, designers, entrepreneurs and different people on creating better spaces for people to live, work and relax.
+i spend most of my time with artists, architects, designers, entrepreneurs and different people on creating better spaces for people to live, work and relax.
 
-I enjoy reading, watching a great movie, listening to a great song, hanging out with friends, and talking about crazy ideas.
+i enjoy reading, watching a great movie, listening to a great song, hanging out with friends, and talking about crazy ideas. also i love sports. 
 
-On a random Sunday, you may see me walking around in the city or playing basketball, or playing video games.
+on a random sunday, you may see me walking in the city, or playing basketball, or playing video games.
 
 [Click](projects.md) to see some projects I'm working on.
