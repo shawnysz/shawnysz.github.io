@@ -11,8 +11,12 @@
             "id": "e762e52858179230",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "drafts/2024-06-05-心流.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "drafts/2024-06-05-心流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "drafts/2024-06-05-心流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "drafts/2024-06-05-心流.md"
+              }
             }
           }
         ]
@@ -140,33 +148,33 @@
   },
   "active": "e762e52858179230",
   "lastOpenFiles": [
-    "2024-10-04.md",
-    "未命名.md",
-    "未命名 1.md",
-    "未命名 2.md",
-    "未命名 3.md",
-    "未命名 4.md",
-    "未命名 5.md",
-    "未命名 6.md",
-    "未命名 7.md",
-    "未命名 8.md",
-    "未命名 9.md",
-    "未命名 10.md",
-    "2024-09-27.md",
-    "2024-09-27-team.md",
-    "2024-09-27-sleep.md",
-    "_posts/2024-09-27-taste.md",
-    "_posts/2024-10-01-意义.md",
-    "_posts/2024-07-22-写作.md",
-    "_posts/2024-07-26-大脑对时间的感知并非是线性增量的.md",
     "_posts/2024-10-06-尼采.md",
-    "drafts/2024-06-05-vision.md",
-    "drafts/2024-06-05-watches.md",
-    "未命名 11.md",
-    "_posts/2024-04-11-new-site.md",
-    "drafts/2024-06-05-心流.md",
-    "drafts/2024-06-05-both-sides-of-the-table.md",
+    "_posts/2024-09-29-team.md",
+    "_posts/2024-09-27-taste.md",
+    "_posts/2024-07-26-大脑对时间的感知并非是线性增量的.md",
+    "_posts/2024-07-22-写作.md",
+    "_posts/2024-06-10-chalkboard-decisions.md",
+    "_posts/2024-07-06-出色士兵和杰出元帅.md",
+    "_posts/2024-06-05-黑钢迪.md",
+    "_posts/2024-05-31-100-days.md",
+    "_posts/2024-02-28-愉悦事物清单.md",
+    "_posts/2024-02-17-点石成金.md",
+    "_posts/2024-02-04-new-site.md",
+    "_posts/2024-01-02-.md",
+    "drafts/2024-10-04.md",
+    "drafts/2024-10-15.md",
+    "drafts/2024-10-16-vintage-sub.md",
+    "drafts/Shawn’s Website.md",
+    "drafts/指数增长.md",
+    "drafts/相同价值观.md",
+    "drafts/未命名 6.md",
+    "drafts/未命名 5.md",
+    "drafts/未命名 1.md",
+    "drafts/2024-09-27-sleep.md",
+    "drafts/2024-09-27.md",
     "favicon.png",
+    "drafts/2024-09-27-.md",
+    "drafts/2024-06-05-心流.md",
     "drafts"
   ]
 }

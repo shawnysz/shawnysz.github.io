@@ -1,23 +1,8 @@
-**Shawn’s Website**
-
-  
-
 As resume
-
 As introduction
-
 As namecard
 
-  
-
-  
-
-  
-
 Topics
-
-  
-
 - Watches
 - Development ideas
 - Life planning
