@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72ee19651829c78b",
+        "id": "63ddf10b163d54cb",
         "type": "tabs",
         "children": [
           {
-            "id": "2a19c802ae839a8a",
+            "id": "f25d499878641632",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,11 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2a19c802ae839a8a",
+  "active": "f25d499878641632",
   "lastOpenFiles": [
-    "_pages/projects.md",
     "_pages/about.md",
+    "_pages/projects.md",
     "_pages/search.md",
+    "defineny.com.md",
     "_posts/2024-09-27-第三代产品.md",
     "drafts/2024-06-05-vision.md",
     "drafts/2024-06-05-心流.md",
@@ -181,7 +182,6 @@
     "_posts/2024-01-02-.md",
     "drafts/2024-10-15.md",
     "drafts/2024-10-16-vintage-sub.md",
-    "drafts/Shawn’s Website.md",
     "favicon.png",
     "drafts"
   ]
