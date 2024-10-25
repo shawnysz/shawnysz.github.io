@@ -10,4 +10,4 @@ i enjoy reading, watching a great movie, listening to a great song, hanging out 
 
 on a random sunday, you may see me walking in the city, or playing basketball, or playing video games.
 
-[Click](projects.md) to see some projects I'm working on.
+see some [projects](https://shawnyzhou.com/projects) I'm working on.
