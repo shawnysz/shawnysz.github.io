@@ -11,10 +11,14 @@
             "id": "f25d499878641632",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_pages/projects.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "projects"
             }
           }
         ]
@@ -156,8 +160,9 @@
   },
   "active": "f25d499878641632",
   "lastOpenFiles": [
-    "_pages/about.md",
+    "dfncontracting.com.md",
     "_pages/projects.md",
+    "_pages/about.md",
     "_pages/search.md",
     "defineny.com.md",
     "_posts/2024-09-27-第三代产品.md",
@@ -181,7 +186,6 @@
     "_posts/2024-02-04-new-site.md",
     "_posts/2024-01-02-.md",
     "drafts/2024-10-15.md",
-    "drafts/2024-10-16-vintage-sub.md",
     "favicon.png",
     "drafts"
   ]
