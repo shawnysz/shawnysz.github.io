@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd212e7d6df4e9e",
+        "id": "72ee19651829c78b",
         "type": "tabs",
         "children": [
           {
-            "id": "06b03ab7fb4559d9",
+            "id": "2a19c802ae839a8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_pages/projects.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "projects"
+              "title": "新标签页"
             }
           }
         ]
@@ -158,10 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "06b03ab7fb4559d9",
+  "active": "2a19c802ae839a8a",
   "lastOpenFiles": [
-    "_pages/about.md",
     "_pages/projects.md",
+    "_pages/about.md",
     "_pages/search.md",
     "_posts/2024-09-27-第三代产品.md",
     "drafts/2024-06-05-vision.md",
