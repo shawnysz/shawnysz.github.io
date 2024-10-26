@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8520eca4e5a61b5",
+        "id": "290809f8cd165664",
         "type": "tabs",
         "children": [
           {
-            "id": "59b243d1a15394ab",
+            "id": "81b0d8ceed0b4b20",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,12 +154,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "59b243d1a15394ab",
+  "active": "81b0d8ceed0b4b20",
   "lastOpenFiles": [
+    "_pages/sports.md",
     "_pages/projects.md",
-    "dfncontracting.com.md",
-    "_pages/about.md",
     "_pages/search.md",
+    "_pages/books.md",
+    "_pages/about.md",
+    "dfncontracting.com.md",
     "defineny.com.md",
     "_posts/2024-09-27-第三代产品.md",
     "drafts/2024-06-05-vision.md",
@@ -180,8 +182,6 @@
     "_posts/2024-02-28-愉悦事物清单.md",
     "_posts/2024-02-17-点石成金.md",
     "_posts/2024-02-04-new-site.md",
-    "_posts/2024-01-02-.md",
-    "drafts/2024-10-15.md",
     "favicon.png",
     "drafts"
   ]
