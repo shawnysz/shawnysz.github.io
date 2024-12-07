@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbfe836a6537e0c4",
+        "id": "bcaf8071c31d0848",
         "type": "tabs",
         "children": [
           {
-            "id": "fe7a37cfbf622580",
+            "id": "efa7af3e2ad897c0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe7a37cfbf622580",
+  "active": "efa7af3e2ad897c0",
   "lastOpenFiles": [
-    "_pages/reading.md",
     "_pages/about.md",
+    "_pages/reading.md",
     "drafts/00 Drafts Planning.md",
     "_posts/2024-05-31-100-days.md",
     "_posts/2024-02-04-new-site.md",
