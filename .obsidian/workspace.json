@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/2024-10-16-vintage-sub.md",
+                "file": "_pages/projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-16-vintage-sub"
+              "title": "projects"
             }
           }
         ]
@@ -160,15 +160,15 @@
   },
   "active": "715acbeef6bd5c4c",
   "lastOpenFiles": [
-    "www.shawnyzhou.com/sports.md",
+    "_pages/about.md",
     "drafts/2024-10-16-vintage-sub.md",
+    "www.shawnyzhou.com/sports.md",
     "drafts/指数增长.md",
     "drafts/相同价值观.md",
     "_posts/2024-02-04-new-site.md",
     "_pages/search.md",
     "_pages/reading.md",
     "_pages/projects.md",
-    "_pages/about.md",
     "_pages/sports.md",
     "www.shawnyzhou.com",
     "_posts/2024-12-07-100000.md",

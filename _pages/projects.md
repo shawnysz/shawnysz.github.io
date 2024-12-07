@@ -4,11 +4,10 @@ title: projects
 ---
 i'm into lots of stuff - more as a what i want to do than trying to turn it into something that i will escape from
 
-- my health ( to improve my life quality, at least no any kind of pain on my body )
 - this site, trying to update regularly
 - a [development company](https://defineny.com) by me and my team
 - a [construction company](https://dfncontracting.com) by me and my team, focusing on commercial space construction on national scale with professionalism and passion
-- a consulting service for brands want to have expand to US market
+- a consulting service for brands want to expand in US market
 - a residential building development - 74 Diamond in NY
 - a personal server to run all my services i need personally (this site is not considered as a part)
 - being a more sophisticated basketball player to play for full court/ full game without leg cramp :)
