@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/projects.md",
+                "file": "drafts/00 Drafts Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "projects"
+              "title": "00 Drafts Planning"
             }
           }
         ]
@@ -160,15 +160,16 @@
   },
   "active": "715acbeef6bd5c4c",
   "lastOpenFiles": [
+    "_posts/2024-05-31-100-days.md",
+    "_posts/2024-02-04-new-site.md",
+    "_pages/projects.md",
     "_pages/about.md",
     "drafts/2024-10-16-vintage-sub.md",
     "www.shawnyzhou.com/sports.md",
     "drafts/指数增长.md",
     "drafts/相同价值观.md",
-    "_posts/2024-02-04-new-site.md",
     "_pages/search.md",
     "_pages/reading.md",
-    "_pages/projects.md",
     "_pages/sports.md",
     "www.shawnyzhou.com",
     "_posts/2024-12-07-100000.md",
@@ -186,7 +187,6 @@
     "drafts/未命名 4.md",
     "drafts/2024-10-15.md",
     "drafts/2024-10-04-信任的中介.md",
-    "drafts/2024-09-27-sleep.md",
     "Clippings",
     "favicon.png",
     "drafts"
