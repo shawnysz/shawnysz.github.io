@@ -10,5 +10,6 @@ I enjoy reading, watching movies, listening to music, hanging out with friends, 
 
 On a random Sunday, you may see me walking in the city, or playing basketball, or playing video games.
 
-
 check out some [projects](https://shawnyzhou.com/projects) I'm working on
+
+and, a [microblog](https://public.me/shawn) of mine
