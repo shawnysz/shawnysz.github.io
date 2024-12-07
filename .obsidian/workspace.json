@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74923b4bf22c19f1",
+        "id": "a0b034c9674dd70d",
         "type": "tabs",
         "children": [
           {
-            "id": "e5845312df24c81e",
+            "id": "7611fd10686ec0c4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5845312df24c81e",
+  "active": "7611fd10686ec0c4",
   "lastOpenFiles": [
+    "_posts/2024-12-07-100000.md",
     "_pages/about.md",
     "_pages/reading.md",
     "drafts/00 Drafts Planning.md",
@@ -169,7 +170,6 @@
     "_pages/search.md",
     "_pages/sports.md",
     "www.shawnyzhou.com",
-    "_posts/2024-12-07-100000.md",
     "_posts/2024-11-06-a-new-trump-era.md",
     "Untitled.md",
     "drafts/2024-06-05-vision.md",
