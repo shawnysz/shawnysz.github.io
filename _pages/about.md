@@ -12,5 +12,6 @@ On a random Sunday, you may see me walking in the city, or playing basketball, o
 
 check out some [projects](https://shawnyzhou.com/projects) I'm working on
 
-and, a [microblog](https://public.me/shawn) of mine
+and, a [microblog](https://public.me/shawn) for some quick takes and random bits
+
 and, my [instagram](https://instagram.com/shawnyzhou), i only post stories, sometimes very frequently ;)
