@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0b034c9674dd70d",
+        "id": "f08b73d68c0a93b6",
         "type": "tabs",
         "children": [
           {
-            "id": "7611fd10686ec0c4",
+            "id": "471111f3b580c75f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,21 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7611fd10686ec0c4",
+  "active": "471111f3b580c75f",
   "lastOpenFiles": [
-    "_posts/2024-12-07-100000.md",
-    "_pages/about.md",
+    "_pages/search.md",
+    "_pages/sports.md",
     "_pages/reading.md",
+    "_pages/projects.md",
+    "_pages/about.md",
+    "_posts/2024-12-07-100000.md",
     "drafts/00 Drafts Planning.md",
     "_posts/2024-05-31-100-days.md",
     "_posts/2024-02-04-new-site.md",
-    "_pages/projects.md",
     "drafts/2024-10-16-vintage-sub.md",
     "www.shawnyzhou.com/sports.md",
     "drafts/指数增长.md",
     "drafts/相同价值观.md",
-    "_pages/search.md",
-    "_pages/sports.md",
     "www.shawnyzhou.com",
     "_posts/2024-11-06-a-new-trump-era.md",
     "Untitled.md",
