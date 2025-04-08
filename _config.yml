@@ -1,17 +1,19 @@
 site: shawnyzhou
-url: #shawnyzhou.com
+url: https://shawnyzhou.com
 title: shawnyzhou
-description: shawnyzhou
+description: Shawn Zhou's personal website
+
 twitter:
-  username: #yourusername
+  username: 
   card: summary
-  creator: #yourusername
-author:shawn
-  twitter: #yourusername
-  name: #shawn
+  creator: 
+
+author:
+  name: Shawn Zhou
   avatar:
   email: sz@shawnyzhou.com
-  url: #yoururl
+  url: https://shawnyzhou.com
+
 permalink: pretty
 
 baseurl: ""
@@ -26,8 +28,8 @@ compress_html:
   comments: ["<!-- ", " -->"]
 
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: compressed
 
 plugins:
   - jekyll-paginate
@@ -60,3 +62,4 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      author: "Shawn Zhou"
