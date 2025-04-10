@@ -3,7 +3,7 @@
       <nav role="navigation" aria-hidden="true">
 <ul>
    {% for item in site.data.navigation.links %}
-      <li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a></li>
+      <li><a href="{{ item.url }}" {% if item.url == '/' and page.url == '/' %} class="active"{% elsif item.url != '/' and page.url contains item.url %} class="active"{% endif %}>{{ item.title }}</a></li>
    {% endfor %}
 </ul>
 </nav>
