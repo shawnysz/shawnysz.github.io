@@ -2,15 +2,6 @@
 @import url('tokens.css');
 @import url('typography.css');
 
-:root {
-  /* Body text colors */
-  --text-color-light: #000;
-  --text-color-dark: #fff;
-
-  /* Heading colors */
-  --heading-color-light: #000;
-  --heading-color-dark: #fff;
-}
 
 body {
   font-family: var(--font-sans);
@@ -236,42 +227,4 @@ h2,
 h3 {
   font-family: var(--font-serif);
   line-height: var(--leading-tight);
-}
-
-/* Light mode */
-@media (prefers-color-scheme: light) {
-  body {
-    color: var(--text-color-light);
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  .site-title,
-  .post-title,
-  .header-title {
-    color: var(--heading-color-light);
-  }
-}
-
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
-  body {
-    color: var(--text-color-dark);
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  .site-title,
-  .post-title,
-  .header-title {
-    color: var(--heading-color-dark);
-  }
 }
