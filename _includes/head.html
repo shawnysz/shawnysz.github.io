@@ -26,9 +26,9 @@
 <link rel="stylesheet" href="/assets/css/main.css">
 
 <title>
-{% if page.title %}
-  {{ page.title }} – Shawn Zhou
+{% if page.url == "/" %}
+  {{ site.title }}
 {% else %}
-  Shawn Zhou
+  {{ page.title }} – {{ site.title }}
 {% endif %}
 </title>
