@@ -49,15 +49,6 @@
     --color-bg: #ffffff;
     --color-fg: #111111;
   }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: #111111 !important;
-  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -364,4 +355,24 @@ h2,
 h3 {
   font-family: var(--font-serif);
   line-height: var(--leading-tight);
+}
+
+/* Unified Heading Color System */
+:root {
+  --heading-color: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --heading-color: #fff;
+  }
+}
+
+h1,
+h2,
+h3,
+.site-title,
+.post-title,
+.header-title {
+  color: var(--heading-color) !important;
 }
