@@ -257,7 +257,10 @@ h3 {
   h3,
   h4,
   h5,
-  h6 {
+  h6,
+  .site-title,
+  .post-title,
+  .header-title {
     color: var(--heading-color-light);
   }
 }
@@ -273,26 +276,12 @@ h3 {
   h3,
   h4,
   h5,
-  h6 {
+  h6,
+  .site-title,
+  .post-title,
+  .header-title {
     color: var(--heading-color-dark);
   }
 }
 
-:root {
-  --heading-color: #000;
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --heading-color: #fff;
-  }
-}
-
-h1,
-h2,
-h3,
-.site-title,
-.post-title,
-.header-title {
-  color: var(--heading-color) !important;
-}
