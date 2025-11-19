@@ -13,7 +13,7 @@ theme: "auto"
 # Custom fields
 ---
 
-# Shawn Zhou
+### Shawn Zhou
 
 I work across spaces and ideas, moving between physical and digital projects depending on what needs to be built. You can see some of my work in [projects](/projects).
 
