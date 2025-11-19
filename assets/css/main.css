@@ -44,6 +44,22 @@
   --space-10: 64px;
 }
 
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-bg: #ffffff;
+    --color-fg: #111111;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #111111 !important;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --color-bg: #000000;
