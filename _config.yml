@@ -37,9 +37,6 @@ plugins:
   - jekyll-sitemap  
 
 collections:
-  pages:
-    output: true
-    permalink: /:name
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
@@ -50,12 +47,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
   -
     scope:
       path: ""

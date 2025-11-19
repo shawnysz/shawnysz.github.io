@@ -1,19 +1,8 @@
 ---
-layout: page
-title:
+layout: default
+title: Shawn Zhou
+lang: en
+description: Shawn Zhou.
 ---
-Hey, I'm Shawn Zhou, living in New York City.
 
-This is my personal website for me to keep my thoughts along my life journey.
-
-During work time, I spend most of my time with artists, architects, designers, entrepreneurs and different people on creating better spaces for people to live, work and relax. But, I don't want to label myself using some titles, me is just being me.
-
-I enjoy reading, watching movies, listening to music, hanging out with friends, and talking about crazy ideas. 
-
-I love watches, I love [sports](https://www.shawnyzhou.com/sports), also, I drink some good wines with my friends sometimes. 
-
-On a random Sunday, you may see me walking in the city, or playing basketball, or playing video games at my office.
-
-If you are interested, check out some [projects](https://shawnyzhou.com/projects) I'm working on;
-
-And, check out my [instagram](https://instagram.com/shawnyzhou), I post stories, sometimes very frequently ;)
+<p>I work across spaces, systems, and ideas — shifting between physical and digital projects depending on what needs to be built. I keep a record of the things I’m exploring inside my <a href="/projects">projects</a>, work through longer thoughts in my <a href="/writing">writing</a>, track the tools I rely on in <a href="/uses">what I use</a>, sketch fragments in <a href="/notes">notes</a>, and share what I’m focused on right <a href="/now">now</a>. Outside of work I’m usually walking the city, reading, watching films, or playing basketball to clear my head. I post small moments on <a href="https://instagram.com/shawnyzhou" target="_blank" rel="noreferrer">Instagram</a>.</p>
