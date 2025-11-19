@@ -1,9 +1,16 @@
 ---
 layout: page
 title: Notes
+description: "Fragments, quotes, and sketches before they grow into longer essays."
 ---
 
 # Notes
 <a class="subtitle" href="/">By Shawn Zhou</a>
 
-Short fragments, quotes, and sketches live here before they mature into longer essays. I treat this space as a notebook that can change quickly without ceremony.
+{% assign notes = site.notes | sort: 'date' | reverse %}
+
+<ul>
+{% for note in notes %}
+  <li><a href="{{ note.url }}">{{ note.title }}</a></li>
+{% endfor %}
+</ul>

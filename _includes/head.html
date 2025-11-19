@@ -1,7 +1,34 @@
 <meta charset="utf-8">
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}Shawn Zhou — design, architecture, real estate, systems, and writing.{% endif %}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{% if page.title %}{{ page.title }} – Shawn Zhou{% else %}Shawn Zhou{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}Shawn Zhou — design, architecture, real estate, systems, and writing.{% endif %}">
+<meta property="og:type" content="website">
+
+<!-- Auto light/dark OG image -->
+<meta property="og:image" content="/assets/og/og-light.png" media="(prefers-color-scheme: light)">
+<meta property="og:image" content="/assets/og/og-dark.png" media="(prefers-color-scheme: dark)">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }} – Shawn Zhou{% else %}Shawn Zhou{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}Shawn Zhou — design, architecture, real estate, systems, and writing.{% endif %}">
+<meta name="twitter:image" content="/assets/og/og-light.png">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="icon" href="/assets/images/favicon-black.svg" media="(prefers-color-scheme: light)">
+<link rel="icon" href="/assets/images/favicon-white.svg" media="(prefers-color-scheme: dark)">
 
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<title>Shawn Zhou</title>
+
+<title>
+{% if page.title %}
+  {{ page.title }} – Shawn Zhou
+{% else %}
+  Shawn Zhou
+{% endif %}
+</title>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+description: "Independent spatial experiments across Field Lab, Neighborhood Residences, and Systems Atlas."
 ---
 
 # Projects

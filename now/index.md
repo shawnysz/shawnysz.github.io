@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Now
+description: "Current focus on independent spatial labs, fabrication workflows, and writing about fast small teams."
 ---
 
 # Now

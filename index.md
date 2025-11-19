@@ -1,5 +1,6 @@
 ---
 layout: default
+description: "Personal website of Shawn Zhou — writing, projects, notes, and tools."
 ---
 
 # Shawn Zhou

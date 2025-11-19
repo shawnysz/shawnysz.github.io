@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What I Use
+description: "Hardware, software, and analog tools I rely on for daily work."
 ---
 
 # What I Use
