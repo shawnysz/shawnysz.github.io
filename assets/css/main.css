@@ -1,10 +1,10 @@
-/* ===== Global Light Mode ===== */
+/* ===== Global Font ===== */
 body {
   background: #ffffff;
   color: #111111;
   margin: 0;
   padding: 40px 20px;
-  font-family: -apple-system, BlinkMacSystemFont, Inter, sans-serif;
+  font-family: 'Instrument Serif', serif;
 }
 
 /* ===== Homepage ===== */
@@ -15,10 +15,15 @@ body {
   line-height: 1.65;
 }
 
+.content h1 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
 .content a {
   color: #111;
   text-decoration: underline;
-  text-decoration-color: #ddd;
+  text-decoration-color: #ccc;
 }
 
 .content a:hover {
@@ -32,7 +37,7 @@ body {
   padding: 0 20px;
   font-size: 1.125rem;
   line-height: 1.65;
-  font-family: -apple-system, BlinkMacSystemFont, Inter, sans-serif;
+  font-family: 'Instrument Serif', serif;
 }
 
 .page-container h1 {
@@ -59,15 +64,24 @@ body {
     color: #e5e5e5;
   }
 
-  .content a,
-  .page-container a {
-    color: #e5e5e5;
-    text-decoration-color: #444;
+  /* Homepage links: make them more visible */
+  .content a {
+    color: #9ecbff;
+    text-decoration-color: #4a82b7;
   }
 
-  .content a:hover,
+  .content a:hover {
+    text-decoration-color: #9ecbff;
+  }
+
+  /* Subpage links */
+  .page-container a {
+    color: #9ecbff;
+    text-decoration-color: #4a82b7;
+  }
+
   .page-container a:hover {
-    text-decoration-color: #e5e5e5;
+    text-decoration-color: #9ecbff;
   }
 
   .subtitle {
