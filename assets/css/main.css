@@ -3,15 +3,19 @@
 @import url('typography.css');
 
 :root {
-  --title-color-light: #000;
-  --title-color-dark: #fff;
+  /* Body text colors */
+  --text-color-light: #000;
+  --text-color-dark: #fff;
+
+  /* Heading colors */
+  --heading-color-light: #000;
+  --heading-color-dark: #fff;
 }
 
 body {
   font-family: var(--font-sans);
   font-size: var(--text-base);
   line-height: var(--leading-relaxed);
-  color: var(--color-fg);
   background: var(--color-bg);
   margin: 0;
   padding: var(--space-6) var(--space-4);
@@ -60,7 +64,6 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--color-fg);
   margin: var(--space-6) 0 var(--space-3);
   line-height: var(--leading-normal);
   font-weight: 500;
@@ -239,19 +242,38 @@ a:focus {
 h1,
 h2,
 h3 {
-  color: var(--color-fg);
   font-family: var(--font-serif);
   line-height: var(--leading-tight);
 }
 
+/* Light mode */
 @media (prefers-color-scheme: light) {
-  .site-title {
-    color: #000 !important;
+  body {
+    color: var(--text-color-light);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: var(--heading-color-light);
   }
 }
 
+/* Dark mode */
 @media (prefers-color-scheme: dark) {
-  .site-title {
-    color: #fff !important;
+  body {
+    color: var(--text-color-dark);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: var(--heading-color-dark);
   }
 }
