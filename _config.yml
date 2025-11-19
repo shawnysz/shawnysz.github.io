@@ -5,8 +5,6 @@ description:
 
 author:
   name: Shawn Zhou
-  avatar:
-  email: 
   url: https://shawnyzhou.com
 
 permalink: pretty
@@ -30,5 +28,5 @@ defaults:
       layout: "default"
 
 collections:
-  journal:
+  writings:
     output: true

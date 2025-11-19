@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Uses
-description: "Tools, devices, clothing, and objects I rely on."
+title: Collections
+description: "Tools, software, and objects I rely on."
 ---
 
-# Uses
+# Collections
 <a class="subtitle" href="/">By Shawn Zhou</a>
 
 Tools, devices, clothing, and everyday objects I rely on. Not a shopping list — a record of what works for me and why. I update this page as my workflow, style, and habits evolve.

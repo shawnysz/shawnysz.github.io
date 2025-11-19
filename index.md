@@ -1,14 +1,16 @@
 ---
 layout: default
-description: "Essays, journals, projects, and tools by Shawn Zhou."
+description: "Projects, writings, and collections by Shawn Zhou."
 ---
 
 # Shawn Zhou
 
-I work across spaces and ideas — shifting between physical and digital projects depending on what needs to be built. 
+I work across spaces and ideas, moving between physical and digital projects depending on what needs to be built. You can see some of my work in [projects](/projects).
 
-I keep a record of the things I’m exploring in my [projects](/projects), work through longer thoughts in my [essays](/essays), track fragments and personal moments in my [journal](/journal), note what I’m focused on right now in [now](/now), and document the tools and objects I rely on in [uses](/uses). 
+My [writings](/writings) gather both longer ideas and shorter fragments as they shift over time.
 
-Outside of work I’m usually walking in the city, reading, watching movies, or playing basketball with friends. 
+I document the tools, software, and objects I rely on in [collections](/collections).
 
-I also post on [Instagram](https://instagram.com/shawnyzhou).
+Outside of work I’m usually reading, watching films, walking in the city, or playing basketball with friends.
+
+I share moments on [Instagram](https://instagram.com/shawnyzhou).
