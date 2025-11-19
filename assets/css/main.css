@@ -64,7 +64,7 @@ p {
 h1,
 h2 {
   font-family: var(--font-serif);
-  color: #ffffff;
+  color: var(--text-primary);
   letter-spacing: -0.01em;
 }
 
