@@ -255,3 +255,22 @@ sup {
     --border-light: rgba(0, 0, 0, 0.1);
   }
 }
+
+/* Light mode (default) */
+.site-title,
+.site-title a,
+h1.site-title {
+  color: #0f172a !important; /* normal dark text, same tone as body */
+  text-decoration: none;
+  opacity: 1; /* no "signature" effect */
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .site-title,
+  .site-title a,
+  h1.site-title {
+    color: #f8fafc !important; /* normal light text in dark mode */
+    opacity: 1;
+  }
+}
