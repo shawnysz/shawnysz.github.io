@@ -33,3 +33,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+collections:
+  notes:
+    output: true
