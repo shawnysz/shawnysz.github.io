@@ -1,7 +1,21 @@
 ---
-layout: page
-title: Writings
+title: "Writings"
 description: "Long-form essays and journal fragments."
+
+layout: "page"
+type: "writing"
+status: "published"
+order: null
+
+canonical: true
+noindex: false
+
+og_title: "Writings – Shawn Zhou"
+og_description: "Long-form essays and journal fragments."
+og_image: "/assets/og/default-light.png"
+theme: "auto"
+
+# Custom fields
 ---
 
 # Writings

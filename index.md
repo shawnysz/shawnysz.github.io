@@ -1,6 +1,21 @@
 ---
-layout: default
+title: "Shawn Zhou"
 description: "Projects, writings, and collections by Shawn Zhou."
+
+layout: "default"
+type: "page"
+status: "published"
+order: null
+
+canonical: true
+noindex: false
+
+og_title: "Shawn Zhou"
+og_description: "Projects, writings, and collections by Shawn Zhou."
+og_image: "/assets/og/default-light.png"
+theme: "auto"
+
+# Custom fields
 ---
 
 # Shawn Zhou
