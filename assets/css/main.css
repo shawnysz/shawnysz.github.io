@@ -1,14 +1,156 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Instrument+Serif:ital,wght@0,400;0,500;1,400&display=swap');
-@import url('tokens.css');
-@import url('typography.css');
 
+/* Tokens */
+:root {
+  /* Font Families */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-serif: 'Instrument Serif', serif;
 
+  /* Fluid Typography Scale */
+  --text-xs: clamp(11px, 0.75vw, 13px);
+  --text-sm: clamp(13px, 0.9vw, 15px);
+  --text-base: clamp(15px, 1vw, 17px);
+  --text-lg: clamp(17px, 1.2vw, 20px);
+
+  /* Title Sizes */
+  --title-sm: clamp(20px, 1.4vw, 26px);
+  --title-md: clamp(28px, 2vw, 34px);
+  --title-lg: clamp(38px, 3vw, 48px);
+  --title-xl: clamp(48px, 4vw, 64px);
+
+  /* Line-height system */
+  --leading-tight: 1.1;
+  --leading-normal: 1.35;
+  --leading-relaxed: 1.55;
+
+  /* Base Colors (Light Mode) */
+  --color-bg: #ffffff;
+  --color-fg: #111111;
+  --color-muted: #666666;
+
+  /* Links */
+  --link-normal: #333333;
+  --link-hover: #111111;
+  --link-underline: rgba(0, 0, 0, 0.12);
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-8: 48px;
+  --space-10: 64px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #000000;
+    --color-fg: #f5f5f5;
+    --color-muted: #aaaaaa;
+
+    --link-normal: #cccccc;
+    --link-hover: #ffffff;
+    --link-underline: rgba(255, 255, 255, 0.15);
+  }
+}
+
+/* Typography */
+/* Base text */
 body {
   font-family: var(--font-sans);
   font-size: var(--text-base);
-  line-height: var(--leading-relaxed);
+  line-height: var(--leading-normal);
+  color: var(--color-fg);
   background: var(--color-bg);
   margin: 0;
+  padding: 0;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--color-fg);
+  line-height: var(--leading-tight);
+  margin-top: var(--space-6);
+  margin-bottom: var(--space-2);
+}
+
+/* Serif only for large titles */
+h1 {
+  font-family: var(--font-serif);
+  font-size: var(--title-xl);
+  font-weight: 400;
+}
+
+h2 {
+  font-family: var(--font-serif);
+  font-size: var(--title-lg);
+  font-weight: 400;
+}
+
+/* Sans for structural subheads */
+h3 {
+  font-family: var(--font-sans);
+  font-size: var(--title-sm);
+  font-weight: 600;
+}
+
+/* Smaller headings */
+h4 {
+  font-family: var(--font-sans);
+  font-size: var(--text-lg);
+  font-weight: 600;
+}
+
+/* Paragraphs */
+p {
+  margin-top: var(--space-3);
+  margin-bottom: var(--space-3);
+  font-size: var(--text-base);
+  line-height: var(--leading-normal);
+}
+
+/* Links – remove browser blue, apply subtle underline */
+a {
+  color: var(--link-normal);
+  text-decoration-color: var(--link-underline);
+  text-underline-offset: 3px;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+a:active {
+  color: var(--link-hover);
+}
+
+a:visited {
+  color: var(--link-normal);
+}
+
+/* Lists */
+ul,
+ol {
+  padding-left: var(--space-4);
+  margin-top: var(--space-3);
+  margin-bottom: var(--space-3);
+}
+
+li {
+  margin-bottom: var(--space-2);
+  font-size: var(--text-base);
+}
+
+/* Main Layout */
+body {
   padding: var(--space-6) var(--space-4);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -32,17 +174,11 @@ h2 {
 }
 
 h1 {
-  font-weight: 400;
-  font-size: var(--text-3xl);
-  line-height: var(--leading-tight);
   margin: var(--space-8) 0 var(--space-4);
   max-width: var(--max-width-wide);
 }
 
 h2 {
-  font-weight: 400;
-  font-size: var(--text-2xl);
-  line-height: var(--leading-normal);
   margin: var(--space-8) 0 var(--space-3);
   max-width: var(--max-width-wide);
 }
@@ -52,22 +188,7 @@ h4,
 h5,
 h6 {
   margin: var(--space-6) 0 var(--space-3);
-  line-height: var(--leading-normal);
-  font-weight: 500;
   max-width: var(--max-width);
-}
-
-h3 {
-  font-size: var(--text-xl);
-}
-
-h4 {
-  font-size: var(--text-lg);
-}
-
-h5,
-h6 {
-  font-size: var(--text-base);
 }
 
 ul,
