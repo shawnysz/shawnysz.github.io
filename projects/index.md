@@ -10,9 +10,6 @@ order: null
 canonical: true
 noindex: false
 
-og_title: "Projects – Shawn Zhou"
-og_description: "Design, build, investment, and systems experiments."
-
 theme: "auto"
 
 # Custom fields

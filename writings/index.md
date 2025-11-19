@@ -10,9 +10,6 @@ order: null
 canonical: true
 noindex: false
 
-og_title: "Writings – Shawn Zhou"
-og_description: "Long-form essays and journal fragments."
-
 theme: "auto"
 
 # Custom fields

@@ -10,9 +10,6 @@ order: null
 canonical: true
 noindex: false
 
-og_title: "Collections – Shawn Zhou"
-og_description: "Tools, software, and objects I rely on."
-
 theme: "auto"
 
 # Custom fields

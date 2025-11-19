@@ -6,19 +6,14 @@ layout: "default"
 type: "page"
 status: "published"
 order: null
-
 canonical: true
 noindex: false
-
-og_title: "Shawn Zhou"
-og_description: "Projects, writings, and collections by Shawn Zhou."
-
 theme: "auto"
 
 # Custom fields
 ---
 
-# Shawn Zhou
+## Shawn Zhou
 
 I work across spaces and ideas, moving between physical and digital projects depending on what needs to be built. You can see some of my work in [projects](/projects).
 
