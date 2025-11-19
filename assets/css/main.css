@@ -1,0 +1,76 @@
+/* ===== Global Light Mode ===== */
+body {
+  background: #ffffff;
+  color: #111111;
+  margin: 0;
+  padding: 40px 20px;
+  font-family: -apple-system, BlinkMacSystemFont, Inter, sans-serif;
+}
+
+/* ===== Homepage ===== */
+.content {
+  max-width: 700px;
+  margin: 0 auto;
+  font-size: 1.125rem;
+  line-height: 1.65;
+}
+
+.content a {
+  color: #111;
+  text-decoration: underline;
+  text-decoration-color: #ddd;
+}
+
+.content a:hover {
+  text-decoration-color: #111;
+}
+
+/* ===== Subpages ===== */
+.page-container {
+  max-width: 700px;
+  margin: 80px auto 0;
+  padding: 0 20px;
+  font-size: 1.125rem;
+  line-height: 1.65;
+  font-family: -apple-system, BlinkMacSystemFont, Inter, sans-serif;
+}
+
+.page-container h1 {
+  font-size: 1.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.subtitle {
+  display: inline-block;
+  margin-bottom: 2rem;
+  color: inherit;
+  opacity: 0.6;
+  text-decoration: none;
+}
+
+.subtitle:hover {
+  opacity: 1;
+}
+
+/* ===== Dark Mode ===== */
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #0a0a0a;
+    color: #e5e5e5;
+  }
+
+  .content a,
+  .page-container a {
+    color: #e5e5e5;
+    text-decoration-color: #444;
+  }
+
+  .content a:hover,
+  .page-container a:hover {
+    text-decoration-color: #e5e5e5;
+  }
+
+  .subtitle {
+    color: #e5e5e5;
+  }
+}

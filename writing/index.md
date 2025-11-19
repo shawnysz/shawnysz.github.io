@@ -1,20 +1,11 @@
 ---
-layout: default
+layout: page
 title: Writing
 ---
 
-<section>
-  <h1>Writing</h1>
-  <div class="writing-list">
-    {% assign posts = site.posts | sort: 'date' | reverse %}
-    {% for post in posts %}
-    <article class="writing-entry">
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-      {% if post.excerpt %}
-      <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
-  </div>
-</section>
+# Writing
+<a class="subtitle" href="/">By Shawn Zhou</a>
+
+I draft ideas in small bursts before refining them into essays and letters here. Most pieces orbit the intersection of spatial systems, software tooling, and independent practice.
+
+A slower publishing cadence means new work arrives a few times a year, but every post is a deliberate dispatch. Check back once in a while if you want to follow along.

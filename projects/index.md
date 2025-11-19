@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: page
 title: Projects
-projects:
-  - title: Field Lab
-    description: Adaptive workplace and fabrication studio focused on fast prototyping for spatial ideas.
-  - title: Neighborhood Residences
-    description: A multi-building housing concept exploring modular construction, daylight, and flexible shared space.
-  - title: Systems Atlas
-    description: A long-form research guide that maps how physical and digital systems overlap inside civic projects.
 ---
 
-<section>
-  <h1>Projects</h1>
-  <div class="projects-list">
-    {% for project in page.projects %}
-    <article class="project-card">
-      <h2>{{ project.title }}</h2>
-      <p>{{ project.description }}</p>
-    </article>
-    {% endfor %}
-  </div>
-</section>
+# Projects
+<a class="subtitle" href="/">By Shawn Zhou</a>
+
+Field Lab documents the adaptive workplace experiments I run with collaborators across architecture, fabrication, and software. Each cycle explores how physical systems can remain flexible without feeling temporary.
+
+Neighborhood Residences expands that thinking into multi-building housing concepts focused on daylight, shared courtyards, and modular construction strategies that feel human instead of generic.
+
+Systems Atlas is my research map for how public space, policy, and tooling overlap. It mixes fieldwork, diagrams, and software notes to show how civic projects evolve from sketches into lived infrastructure.

@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Notes
 ---
 
-<section>
-  <h1>Notes</h1>
-  <p class="placeholder">Short-form notes will live here once I’m ready to publish them.</p>
-</section>
+# Notes
+<a class="subtitle" href="/">By Shawn Zhou</a>
+
+Short fragments, quotes, and sketches live here before they mature into longer essays. I treat this space as a notebook that can change quickly without ceremony.
