@@ -1,17 +1,12 @@
 site: Shawn Zhou
 url: https://shawnyzhou.com
 title: Shawn Zhou
-description: Shawn Zhou
-
-twitter:
-  username: 
-  card: summary
-  creator: 
+description: 
 
 author:
   name: Shawn Zhou
   avatar:
-  email: sz@shawnyzhou.com
+  email: 
   url: https://shawnyzhou.com
 
 permalink: pretty
@@ -35,5 +30,5 @@ defaults:
       layout: "default"
 
 collections:
-  notes:
+  journal:
     output: true

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Now
-description: "Current focus on independent spatial labs, fabrication workflows, and writing about fast small teams."
+description: "Current focus and seasonal priorities."
 ---
 
 # Now
 <a class="subtitle" href="/">By Shawn Zhou</a>
 
-Currently focused on refining a toolkit for independent spatial labs, spending mornings testing fabrication workflows, and writing about how small teams can move faster without losing craft.
+What I’m currently focused on. A snapshot of my priorities and energy this season. Updated when my direction meaningfully shifts.
