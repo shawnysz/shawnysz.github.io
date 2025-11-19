@@ -1,10 +1,20 @@
 /* ===== Global Font ===== */
+body,
+.content,
+.page-container,
+h1,
+h2,
+h3,
+a,
+.subtitle {
+  font-family: 'Instrument Serif', serif;
+}
+
 body {
   background: #ffffff;
   color: #111111;
   margin: 0;
   padding: 40px 20px;
-  font-family: 'Instrument Serif', serif;
 }
 
 /* ===== Homepage ===== */
@@ -37,7 +47,6 @@ body {
   padding: 0 20px;
   font-size: 1.125rem;
   line-height: 1.65;
-  font-family: 'Instrument Serif', serif;
 }
 
 .page-container h1 {
