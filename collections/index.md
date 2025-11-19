@@ -2,7 +2,7 @@
 title: "Collections"
 description: "Tools, software, and objects I rely on."
 
-layout: "page"
+layout: "default"
 type: "page"
 status: "published"
 order: null
@@ -12,7 +12,7 @@ noindex: false
 
 og_title: "Collections – Shawn Zhou"
 og_description: "Tools, software, and objects I rely on."
-og_image: "/assets/og/default-light.png"
+
 theme: "auto"
 
 # Custom fields

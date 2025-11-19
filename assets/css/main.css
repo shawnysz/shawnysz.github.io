@@ -24,11 +24,7 @@ body {
 }
 
 .main,
-.content,
-.page-container,
-.main-content,
-.post-content,
-.page-content {
+.content {
   max-width: var(--max-width-wide);
   margin: 0 auto;
   padding-top: var(--space-8);
@@ -163,7 +159,7 @@ sup {
   max-width: var(--max-width);
 }
 
-.markdown > * {
+.markdown>* {
   max-width: var(--max-width);
 }
 
@@ -201,11 +197,7 @@ sup {
   }
 
   .main,
-  .content,
-  .page-container,
-  .main-content,
-  .post-content,
-  .page-content {
+  .content {
     padding-top: var(--space-5);
   }
 }
@@ -283,5 +275,3 @@ h3 {
     color: var(--heading-color-dark);
   }
 }
-
-

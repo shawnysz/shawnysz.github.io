@@ -2,7 +2,7 @@
 title: "Writings"
 description: "Long-form essays and journal fragments."
 
-layout: "page"
+layout: "default"
 type: "writing"
 status: "published"
 order: null
@@ -12,7 +12,7 @@ noindex: false
 
 og_title: "Writings – Shawn Zhou"
 og_description: "Long-form essays and journal fragments."
-og_image: "/assets/og/default-light.png"
+
 theme: "auto"
 
 # Custom fields

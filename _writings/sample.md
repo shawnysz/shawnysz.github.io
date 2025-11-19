@@ -12,7 +12,7 @@ noindex: false
 
 og_title: "Sample – Shawn Zhou"
 og_description: "A short note from Shawn Zhou."
-og_image: "/assets/og/default-light.png"
+
 theme: "auto"
 
 # Custom fields

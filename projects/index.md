@@ -2,7 +2,7 @@
 title: "Projects"
 description: "Design, build, investment, and systems experiments."
 
-layout: "page"
+layout: "default"
 type: "project"
 status: "published"
 order: null
@@ -12,7 +12,7 @@ noindex: false
 
 og_title: "Projects – Shawn Zhou"
 og_description: "Design, build, investment, and systems experiments."
-og_image: "/assets/og/default-light.png"
+
 theme: "auto"
 
 # Custom fields
