@@ -1,0 +1,114 @@
+:root {
+  --space-0: 0;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-7: 32px;
+  --space-8: 40px;
+  --space-9: 48px;
+  --space-10: 64px;
+}
+
+/* ===== Global Font ===== */
+body,
+.content,
+.page-container,
+h1,
+h2,
+h3,
+a,
+.subtitle {
+  font-family: 'Instrument Serif', serif;
+}
+
+body {
+  background: #ffffff;
+  color: #111111;
+  margin: 0;
+  padding: var(--space-7);
+}
+
+/* ===== Homepage ===== */
+.content {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 var(--space-3);
+  font-size: 1.125rem;
+  line-height: 1.65;
+}
+
+.content h1 {
+  font-size: 2rem;
+  margin-bottom: var(--space-6);
+}
+
+.content a {
+  color: #111;
+  text-decoration: underline;
+  text-decoration-color: #ccc;
+}
+
+.content a:hover {
+  text-decoration-color: #111;
+}
+
+/* ===== Subpages ===== */
+.page-container {
+  max-width: 700px;
+  margin: var(--space-9) auto 0;
+  padding: 0 var(--space-3);
+  font-size: 1.125rem;
+  line-height: 1.65;
+}
+
+.page-container h1 {
+  font-size: 1.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.subtitle {
+  display: inline-block;
+  margin-bottom: var(--space-7);
+  color: inherit;
+  opacity: 0.6;
+  text-decoration: none;
+}
+
+.subtitle:hover {
+  opacity: 1;
+}
+
+/* ===== Dark Mode ===== */
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #0a0a0a;
+    color: #e5e5e5;
+  }
+
+  /* Homepage links: make them more visible */
+  .content a {
+    color: #9ecbff;
+    text-decoration-color: #4a82b7;
+  }
+
+  .content a:hover {
+    text-decoration-color: #9ecbff;
+  }
+
+  /* Subpage links */
+  .page-container a {
+    color: #9ecbff;
+    text-decoration-color: #4a82b7;
+  }
+
+  .page-container a:hover {
+    text-decoration-color: #9ecbff;
+  }
+
+  .subtitle {
+    color: #e5e5e5;
+  }
+}
