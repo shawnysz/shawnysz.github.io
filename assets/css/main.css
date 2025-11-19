@@ -245,15 +245,13 @@ h3 {
 }
 
 @media (prefers-color-scheme: light) {
-  .site-title,
-  h1.site-title {
-    color: var(--title-color-light);
+  .site-title {
+    color: #000 !important;
   }
 }
 
 @media (prefers-color-scheme: dark) {
-  .site-title,
-  h1.site-title {
-    color: var(--title-color-dark);
+  .site-title {
+    color: #fff !important;
   }
 }
