@@ -82,7 +82,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--color-fg);
+
   line-height: var(--leading-tight);
   margin-top: var(--space-6);
   margin-bottom: var(--space-2);
