@@ -1,76 +1,40 @@
 ---
 title: Collections – Shawn Zhou
-description: Tools, devices, software, and everyday systems I rely on today.
+description: Tools, spaces, objects, and experiences that shape taste and lifestyle.
 layout: default
 ---
 
-# Collections  
-By Shawn Zhou
+# Collections
+<a class="subtitle" href="/">By Shawn Zhou</a>
 
-Tools, devices, and everyday systems I rely on.  
-Not a wishlist — only what stays in my workflow today.  
-Updated as my routines, environment, and habits evolve.
+The things I choose, use, and care about — a record of taste and preference over time.
 
 ---
 
-## I. Devices
+## [Tools](/collections/tools)
 
-**Computing**  
-- 13" MacBook Air (2024– )  
-- Mac mini M4 for office (2024– )
-
-**Phones / Tablets**  
-- iPhone Air (2025– )  
-- Galaxy Z Fold 7 (2025– )  
-- Samsung Galaxy Tab S11 Ultra (2025– )  
-- Boox Palma (2024– )
-
-**Digital Writing**  
-- Montblanc Digital Paper (2025– )
-
-**Audio**  
-- AirPods Pro (2023– )
+Devices, software, setups, and workflows that shape daily work.
 
 ---
 
-## II. Software / Apps
+## [Spaces](/collections/spaces)
 
-**Core Workflow**  
-- Obsidian  
-- Google Workspace  
-- Arc  
-- Things  
-- Apple suite
-
-**Capture / Notes**  
-- Simplenote  
-- VoiceNotes  
-- Flomo
-
-**Media / Reference**  
-- Eagle  
-- Raindrop
+Places, environments, and interiors that shape how I work and live.
 
 ---
 
-## III. EDC  
-- Compact toolbox  
-- Wallet  
+## [Objects](/collections/objects)
+
+Physical items, clothing, and everyday things that matter.
 
 ---
 
-## IV. Workspace  
-- 34" MSI monitor  
-- Minimal desk setup  
-- Herman Miller Leaf lamp  
+## [Experiences](/collections/experiences)
+
+Books, films, cities, restaurants, and routines that stay with me.
 
 ---
 
-## V. Home Server  
-- Mac mini M4 running internal storage, sync, and services  
+## [Previously Used](/collections/previously-used)
 
----
-
-## Previously Used  
-A record of devices, software, and services from earlier versions of my workflow.  
-→ **[See Previously Used](/previously-used)**
+A record of devices, software, and services from earlier versions of my workflow.

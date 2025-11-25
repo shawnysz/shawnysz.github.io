@@ -1,30 +1,43 @@
 ---
 title: "Projects"
-description: "Design, build, investment, and systems experiments."
-
+description: "Work across design, construction, and real estate."
 layout: "default"
 type: "project"
 status: "published"
 order: null
-
 canonical: true
 noindex: false
-
 theme: "auto"
-
-# Custom fields
 ---
 
 # Projects
 <a class="subtitle" href="/">By Shawn Zhou</a>
 
-Things I’ve built or am building — across design, construction, real estate investment, and systems. A mix of physical projects, digital infrastructure, and long-term experiments.
+Work across design, construction, and real estate — from commercial interiors to residential development and long-term holdings.
 
-## Design / Build
-Field Lab documents adaptive workplace experiments I run with collaborators across architecture, fabrication, and software. Each cycle explores how physical systems can remain flexible without feeling temporary, with mock-ups moving from sketch to deployable kit-of-parts.
+## Design + Build
 
-## Investment
-Neighborhood Residences expands that thinking into multi-building housing concepts focused on daylight, shared courtyards, and modular construction strategies that feel human instead of generic. It’s a long-term investment track pairing development models with place-specific stewardship.
+A selection of projects across architecture, interiors, and commercial environments.
 
-## Systems
-Systems Atlas is my research map for how public space, policy, and tooling overlap. It mixes fieldwork, diagrams, and software notes to show how civic projects evolve from sketches into lived infrastructure, and how the supporting systems can stay legible as they grow.
+- [Project A – Retail Space](/projects/design-build/project-a)
+- [Project B – Hospitality Interior](/projects/design-build/project-b)
+- [Project C – Apartment Renovation](/projects/design-build/project-c)
+- [Project D – House Upgrade](/projects/design-build/project-d)
+- [Project E – Townhouse Renovation](/projects/design-build/project-e)
+
+## Development + Investment
+
+Long-horizon work extending design-build thinking into durable assets.
+
+- [74 Diamond – Retail Fit-out](/projects/development/74-diamond)
+- [Neighborhood Residences](/projects/development/neighborhood-residences)
+- [Acquisition 1 – 12-Unit Multifamily](/projects/development/acquisition-1)
+- [Acquisition 2 – Walk-up Building](/projects/development/acquisition-2)
+
+## Frameworks
+
+Light structures that guide how I build, develop, and manage projects.
+
+- [Work Philosophy](/projects/frameworks/work-philosophy)
+- [Development Models](/projects/frameworks/development-models)
+- [Tools & Workflows](/projects/frameworks/tools-workflows)

@@ -36,9 +36,12 @@ plugins:
   - jekyll-feed
 
 collections:
-  essays:
+  writings:
     output: true
-    permalink: /essays/:title/
-  journals:
+    permalink: /writings/:path/
+  projects:
     output: true
-    permalink: /journals/:title/
+    permalink: /projects/:path/
+  collections:
+    output: true
+    permalink: /collections/:path/

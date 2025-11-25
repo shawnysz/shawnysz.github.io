@@ -1,32 +1,43 @@
 ---
 title: "Writings"
-description: "Long-form essays and journal fragments."
-
+description: "Notes, essays, and journal entries — ideas and observations across life and thinking."
 layout: "default"
 type: "writing"
 status: "published"
 order: null
-
 canonical: true
 noindex: false
-
 theme: "auto"
-
-# Custom fields
 ---
 
 # Writings
 <a class="subtitle" href="/">By Shawn Zhou</a>
 
-My writings gather both longer ideas and shorter fragments as they shift over time. Essays capture the full structure and decisions behind a project, while journal entries stay closer to the moment they were written.
+Ideas, observations, and fragments — capturing how I see the world.
 
-{% assign essays_by_year = site.essays | group_by_exp: "essay", "essay.date | date: '%Y'" | sort: "name" | reverse %}
+## Notes
 
-{% if essays_by_year.size > 0 %}
+Short thoughts, fragments, and observations. Unpolished, immediate, close to the moment.
+
+{% assign notes = site.writings | where_exp: "item", "item.path contains 'notes'" | sort: 'date' | reverse %}
+{% if notes.size > 0 %}
+<ul>
+{% for note in notes %}
+  <li><a href="{{ note.url }}">{{ note.title }}</a></li>
+{% endfor %}
+</ul>
+{% else %}
+<p>No notes published yet.</p>
+{% endif %}
+
 ## Essays
 
-Structure, decisions, and long-form thinking. These slower pieces take time to build and time to absorb.
+Longer pieces with structure and intention. Deep thinking that takes time to build and time to absorb.
 
+{% assign all_essays = site.writings | where_exp: "item", "item.path contains 'essays'" %}
+{% assign essays_by_year = all_essays | group_by_exp: "essay", "essay.date | date: '%Y'" | sort: "name" | reverse %}
+
+{% if essays_by_year.size > 0 %}
 {% for year in essays_by_year %}
 ### {{ year.name }}
 
@@ -41,15 +52,14 @@ Structure, decisions, and long-form thinking. These slower pieces take time to b
 <p>No essays published yet.</p>
 {% endif %}
 
-{% assign entries = site.journals | sort: 'date' | reverse %}
-
-{% if entries.size > 0 %}
 ## Journal
 
-A timeline of milestones, small notes, things I’m learning, and fragments not polished enough to become essays.
+Travel, restaurants, experiences, and observations. A record of places, moments, and things worth remembering.
 
+{% assign journal = site.writings | where_exp: "item", "item.path contains 'journal'" | sort: 'date' | reverse %}
+{% if journal.size > 0 %}
 <ul>
-{% for entry in entries %}
+{% for entry in journal %}
   <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
 {% endfor %}
 </ul>
