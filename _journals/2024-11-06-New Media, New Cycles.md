@@ -2,7 +2,7 @@
 title: "New Media, New Cycles"
 description: "Watching a political shift in real time and the media landscape collapsing beneath it."
 layout: "default"
-type: "writing"
+type: "journal"
 status: "published"
 order: null
 canonical: true

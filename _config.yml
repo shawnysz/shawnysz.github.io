@@ -1,7 +1,7 @@
 site: Shawn Zhou
 url: https://shawnyzhou.com
-title: Shawn Zhou 
-description: 
+title: Shawn Zhou
+description: Design, architecture, real estate, systems, and writing by Shawn Zhou
 
 author:
   name: Shawn Zhou
@@ -10,6 +10,9 @@ author:
 permalink: pretty
 
 baseurl: ""
+
+lang: en
+timezone: America/Los_Angeles
 
 highlighter: none
 
@@ -27,8 +30,15 @@ defaults:
     values:
       layout: "default"
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
 collections:
   essays:
     output: true
+    permalink: /essays/:title/
   journals:
     output: true
+    permalink: /journals/:title/

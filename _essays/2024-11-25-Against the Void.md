@@ -2,7 +2,7 @@
 title: "Against the Void"
 description: "On consumer symbols, identity, and why creation is the only real resistance."
 layout: "default"
-type: "writing"
+type: "essay"
 status: "published"
 order: null
 canonical: true

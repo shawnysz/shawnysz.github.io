@@ -2,7 +2,7 @@
 title: "On Choosing What Not To Do"
 description: "A short note on attention, limits, and the discipline of skipping."
 layout: "default"
-type: "writing"
+type: "essay"
 status: "published"
 order: null
 canonical: true

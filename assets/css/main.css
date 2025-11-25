@@ -1,10 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Instrument+Serif:ital,wght@0,400;0,500;1,400&display=swap');
-
 :root {
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-serif: 'Instrument Serif', serif;
 
-  --text-xs: clamp(11px, 0.75vw, 13px);
   --text-sm: clamp(13px, 0.9vw, 15px);
   --text-base: clamp(15px, 1vw, 17px);
   --text-lg: clamp(17px, 1.2vw, 20px);
@@ -26,14 +23,11 @@
   --max-width: 720px;
   --max-width-wide: 900px;
 
-  --space-1: 4px;
   --space-2: 8px;
-  --space-3: 12px;
   --space-4: 16px;
   --space-5: 24px;
   --space-6: 32px;
   --space-8: 48px;
-  --space-10: 64px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -105,6 +99,13 @@ a {
 a:hover {
   color: var(--link-hover);
   border-bottom-color: var(--link-hover);
+}
+
+.subtitle {
+  color: var(--color-muted);
+  font-size: var(--text-sm);
+  display: block;
+  margin-top: var(--space-2);
 }
 
 .main,

@@ -1,27 +1,13 @@
 <meta charset="utf-8">
-<meta name="description"
-  content="{% if page.description %}{{ page.description }}{% else %}Shawn Zhou — design, architecture, real estate, systems, and writing.{% endif %}">
-
-<!-- Open Graph -->
-<meta property="og:title" content="{% if page.title %}{{ page.title }} – Shawn Zhou{% else %}Shawn Zhou{% endif %}">
-<meta property="og:description"
-  content="{% if page.description %}{{ page.description }}{% else %}Shawn Zhou — design, architecture, real estate, systems, and writing.{% endif %}">
-<meta property="og:type" content="website">
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
 
 <link rel="icon" href="/assets/images/favicon-black.svg" media="(prefers-color-scheme: light)">
 <link rel="icon" href="/assets/images/favicon-white.svg" media="(prefers-color-scheme: dark)">
 
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital,wght@0,400;0,600;1,400&display=swap"
-  rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Instrument+Serif:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-
-<title>
-  {% if page.url == "/" %}
-  {{ site.title }}
-  {% else %}
-  {{ page.title }} – {{ site.title }}
-  {% endif %}
-</title>
