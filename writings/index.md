@@ -20,19 +20,19 @@ theme: "auto"
 
 My writings gather both longer ideas and shorter fragments as they shift over time. Essays capture the full structure and decisions behind a project, while journal entries stay closer to the moment they were written.
 
-{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
+{% assign essays_by_year = site.essays | group_by_exp: "essay", "essay.date | date: '%Y'" | sort: "name" | reverse %}
 
-{% if posts_by_year.size > 0 %}
+{% if essays_by_year.size > 0 %}
 ## Essays
 
 Structure, decisions, and long-form thinking. These slower pieces take time to build and time to absorb.
 
-{% for year in posts_by_year %}
+{% for year in essays_by_year %}
 ### {{ year.name }}
 
 <ul>
-  {% for post in year.items %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% for essay in year.items %}
+    <li><a href="{{ essay.url }}">{{ essay.title }}</a></li>
   {% endfor %}
 </ul>
 
@@ -41,7 +41,7 @@ Structure, decisions, and long-form thinking. These slower pieces take time to b
 <p>No essays published yet.</p>
 {% endif %}
 
-{% assign entries = site.writings | sort: 'date' | reverse %}
+{% assign entries = site.journals | sort: 'date' | reverse %}
 
 {% if entries.size > 0 %}
 ## Journal

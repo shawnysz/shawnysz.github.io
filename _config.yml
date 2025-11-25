@@ -28,5 +28,7 @@ defaults:
       layout: "default"
 
 collections:
-  writings:
+  essays:
+    output: true
+  journals:
     output: true
