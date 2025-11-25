@@ -29,7 +29,7 @@ A selection of projects across architecture, interiors, and commercial environme
 
 Long-horizon work extending design-build thinking into durable assets.
 
-- [74 Diamond – Retail Fit-out](/projects/development/74-diamond)
+- [74 Diamond](/projects/development/74-diamond)
 - [Neighborhood Residences](/projects/development/neighborhood-residences)
 - [Acquisition 1 – 12-Unit Multifamily](/projects/development/acquisition-1)
 - [Acquisition 2 – Walk-up Building](/projects/development/acquisition-2)

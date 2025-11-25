@@ -1,6 +1,6 @@
 ---
 title: "74 Diamond"
-description: "artistic development project in Brooklyn"
+description: "development project in Brooklyn"
 layout: "default"
 ---
 

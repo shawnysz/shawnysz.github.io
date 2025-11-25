@@ -9,29 +9,29 @@ layout: default
 
 The things I choose, use, and care about — a record of taste and preference over time.
 
----
-
 ## [Tools](/collections/tools)
 
 Devices, software, setups, and workflows that shape daily work.
 
----
+*
 
 ## [Spaces](/collections/spaces)
 
 Places, environments, and interiors that shape how I work and live.
 
----
+*
 
 ## [Objects](/collections/objects)
 
 Physical items, clothing, and everyday things that matter.
 
----
+*
 
 ## [Experiences](/collections/experiences)
 
 Books, films, cities, restaurants, and routines that stay with me.
+
+
 
 ---
 
