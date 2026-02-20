@@ -260,6 +260,23 @@ class SiteBuilder:
         else:
             print("WARNING:  No index.md found")
 
+        # 2.5. Build 404 page
+        error_file = self.root_dir / '404.md'
+        if error_file.exists():
+            frontmatter, body = self.parse_frontmatter(error_file)
+            html_content = self.markdown_to_html(body)
+            context = {
+                'title': frontmatter.get('title', '404'),
+                'description': frontmatter.get('description', ''),
+                'content': html_content,
+                'is_home': False,
+                'body_class': ''
+            }
+            html = self.base_template.render(**context)
+            output_path = self.dist_dir / '404.html'
+            output_path.write_text(html, encoding='utf-8')
+            print("OK: Built 404 page")
+
         # 3. Build all content pages
         content_count = 0
         for md_file in self.content_dir.rglob('*.md'):
