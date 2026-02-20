@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}{% if title %} - {% endif %}Shawn Zhou</title>
+  <meta name="description" content="{{ description or 'Projects, writings, and collections by Shawn Zhou.' }}">
+
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/images/favicon-black.svg" media="(prefers-color-scheme: light)">
+  <link rel="icon" href="/assets/images/favicon-white.svg" media="(prefers-color-scheme: dark)">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body{% if body_class %} class="{{ body_class }}"{% endif %}>
+  <!-- 返回首页链接（仅在非首页显示） -->
+  {% if not is_home %}
+  <a href="/" class="home-link" aria-label="Return to homepage">
+    <img src="/assets/images/favicon-black.svg" class="home-link-icon light-mode" alt="Home">
+    <img src="/assets/images/favicon-white.svg" class="home-link-icon dark-mode" alt="Home">
+  </a>
+  {% endif %}
+
+  <main class="main content">
+    {{ content }}
+  </main>
+</body>
+</html>

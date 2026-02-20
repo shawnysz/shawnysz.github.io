@@ -1,6 +1,21 @@
+# Build output
+dist/
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Old Jekyll files (keeping for reference)
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
-.DS_Store
